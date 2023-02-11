@@ -1,5 +1,16 @@
 body {
-    color: blue;
+    color: mediumspringgreen;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+}
+
+#container {
+    width: 70px;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid; 
+}
+
+#container h1 {
+    font-size: 20px;
 }
